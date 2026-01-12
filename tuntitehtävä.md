@@ -1,6 +1,6 @@
 # Tuntitehtävä 12.1.26
 
-Ensimmäisenä tein ohjelmiston, joka laskee kolmion pinta-alan. Käytin tässä apuna Programizin artikkelia "Python Program to Calculate the Area of a Triangle". Alla koodi:
+Ensimmäisenä tein ohjelman, joka laskee kolmion pinta-alan. Käytin tässä apuna Programizin artikkelia "Python Program to Calculate the Area of a Triangle". Alla koodi:
 
 
 a = 5
